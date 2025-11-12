@@ -73,7 +73,7 @@ assets/
 
 | Login Screen | Dashboard |
 |---------------|------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Login](Figures/fig1.png) | ![Dashboard](Figures/fig2.png) |
 
 ---
 
