@@ -99,12 +99,10 @@ It’s a showcase of UI design, animation control, and user experience excellenc
 ## 🧑‍💻 Author
 
 👩‍🎓 Zainab Jamil
-AI Engineer & Flutter Enthusiast
-🌍 LinkedIn | 💻 GitHub
+AI Engineer in Training 💗👩‍💻
 
 ## 📜 License
 
 MIT License © 2025 Zainab Jamil
 You are free to use, modify, and distribute this project with attribution.
 
->>>>>>> 69124520a8260621c110b685d2001272378d7321
