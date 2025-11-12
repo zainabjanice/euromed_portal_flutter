@@ -5,7 +5,6 @@
 ![Language](https://img.shields.io/badge/Language-Dart-0A84FF)
 ![Design](https://img.shields.io/badge/Style-Material%203%20%7C%20Glassmorphism-purple)
 ![Domain](https://img.shields.io/badge/Domain-EdTech%20%7C%20AI%20Interface-orange)
-![Framework](https://img.shields.io/badge/Framework-Flutter%20UI%20%7C%20Animation-lightblue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 
